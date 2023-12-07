@@ -1,0 +1,15 @@
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.csproj.AssemblyReference.cache
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.AssemblyInfoInputs.cache
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.AssemblyInfo.cs
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.csproj.CoreCompileInputs.cache
+/home/roman/Рабочий стол/C#/seminar4/Task_004/bin/Debug/net7.0/Task_004
+/home/roman/Рабочий стол/C#/seminar4/Task_004/bin/Debug/net7.0/Task_004.deps.json
+/home/roman/Рабочий стол/C#/seminar4/Task_004/bin/Debug/net7.0/Task_004.runtimeconfig.json
+/home/roman/Рабочий стол/C#/seminar4/Task_004/bin/Debug/net7.0/Task_004.dll
+/home/roman/Рабочий стол/C#/seminar4/Task_004/bin/Debug/net7.0/Task_004.pdb
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.dll
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/refint/Task_004.dll
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.pdb
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/Task_004.genruntimeconfig.cache
+/home/roman/Рабочий стол/C#/seminar4/Task_004/obj/Debug/net7.0/ref/Task_004.dll
